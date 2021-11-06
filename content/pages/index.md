@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Esto es una prueba
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: probando
     actions:
       - label: Contact Me
         url: /contact
